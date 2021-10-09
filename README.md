@@ -4,7 +4,9 @@ It uses MVC structure starategy Model-view-controller(MVC)
 and it connected to Mango DB database MongoDB
 
 # Run the Application
-• open the application in vscode
+• open the application in vscode using 'git clone'
+
+• run the command npm i  to install dependencies
 
 • and run it using '$ npm start' command
 
